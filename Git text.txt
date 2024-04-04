@@ -1,0 +1,36 @@
+Git  Modular
+Xml  Modular
+Advance JavaScrript    Modular+pratical
+MySQL    Modular+pratical
+PHP    Modular+pratical
+Laravel    Modular+pratical.........project
+
+CVC and DVC
+Centralize versioon controller
+Distributed VersionController
+in git command base work
+.................................
+CVC and DVC
+CVC:Google Classroom,google drive,one drive
+Dvc: Mercurial, Git and Bazaar
+Technical Termnologies
+repositories
+repo
+folder
+......................
+Two types of repo
+1)local repo
+2)Golbal repo
+command base work
+we will live project through git 
+................................
+cmd
+git bash
+mkdir folder name
+......................
+cd
+content deliver
+cd folder name
+............................
+cat index.html   for viewing code
+touch about.js for file creating
