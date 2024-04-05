@@ -1,0 +1,10 @@
+1) git init
+2)git add index.html (to add single file )
+3)git status (to check either file is added or not)
+4)git add . (to add all files)
+5)git config user.name(to check user name)
+6)git config user.email(to check user email)
+7)git config --global user.name"your name"
+8)git config --global user.email"your email"
+9)git commit -m"Hello World"(for attaching message)
+10)git log(to check either messages is added or not)
